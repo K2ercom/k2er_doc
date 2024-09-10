@@ -20,7 +20,7 @@ A `Macro` has at least one `Rotation State`, and for each `Rotation State`, you 
     * `Interrupt Command`: Interrupts all macro commands and sets the `Rotation State` to the first one.
 
 ## Examples of Use
-* Open and close a backpack in a shooting game
+### Open and close a backpack in a shooting game
 
 Effect: Pressing the Tab key simulates clicking the backpack (position 1), disables Aiming Mode, and shows the mouse.
 Pressing the Tab key again simulates clicking to close the backpack (position 2), enables Aiming Mode, and hides the mouse.
