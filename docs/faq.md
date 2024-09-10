@@ -1,6 +1,6 @@
 # Frequently Asked Questions
 
-## [Activation-related FAQ](activation.md)
+## [Activation-related FAQ](/activation.md)
 
 ## How to Connect Gamepad and Keyboards/Mice
 

@@ -1,6 +1,6 @@
 # 常见问题
 
-## [激活相关FAQ](activation_zh.md)
+## [激活相关FAQ](/activation_zh.md)
 
 ## 怎么链接手柄、键鼠
 

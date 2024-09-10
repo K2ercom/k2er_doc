@@ -1,10 +1,10 @@
 # Activation FAQ（激活相关常见问题）
 
-[English](activation.md) | [中文](activation_zh.md) 
+[English](/activation.md) | [中文](/activation_zh.md) 
 
 # FAQ（常见问题）
 
-[English](faq.md) | [中文](faq_zh.md) 
+[English](/faq.md) | [中文](/faq_zh.md) 
 
 ## Video Tutorial（视频教程）
 
