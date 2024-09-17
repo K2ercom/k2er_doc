@@ -25,6 +25,12 @@ K2er supports the vast majority of gamepads and keyboards/mice on the market, in
 
 > Add a non-game app to K2er to see if the floating window appears.
 
+## TV Mode Resolution Change Not Effective
+
+**v0.2.141** introduced TV mode, which allows changing the resolution on phones/tablets. However, for OPPO/Realme/OnePlus devices, the "Disable Permission Monitoring" switch needs to be enabled for the changes to take effect.
+
+> Developer Options -> turn on [Disable Permission Monitoring]
+
 ## Key Presses Are Not Working, Including Mouse
 
 1. For `Xiaomi`/`Redmi`/`Black Shark`/`POCO` phones, go to `Developer Options` -> `USB Debugging (Security Settings)`.
