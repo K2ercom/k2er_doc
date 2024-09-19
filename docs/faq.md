@@ -45,6 +45,10 @@ K2er supports the vast majority of gamepads and keyboards/mice on the market, in
 
 5. If none of the above works, it might be due to your phone’s `Game Mode`. Remove the game from `Game Mode` and try again.
 
+## How to Use the PS5 Controller's Touchpad
+
+In the K2er device management section, do not check the `DualSense Touchpad` option. This way, K2er will not hijack your touchpad, and it will continue to function as a mouse. Note that a few games do not support mouse clicks.
+
 ## How to Control the Character's View with a Mouse in Shooting Games (Hide Mouse Cursor)
 
 When configuring the key bindings, add an `Aiming Mode`, which simulates the finger controlling the character’s view. The default shortcut is `Middle Mouse Button`.
