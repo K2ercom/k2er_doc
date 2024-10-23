@@ -10,9 +10,9 @@ The `Dpad (Stick)` uses the gamepad's **joystick** to simulate the **virtual joy
 
 * **Change Radius Shortcut**: When the `Change Radius Shortcut` is pressed, the Dpad `radius` will increase or decrease based on the `Radius Offset Value`. This is commonly used for controlling walking and running in games. For example, pressing `R1` will switch to walking.
 
-* **Invert X**: Inverts the X-axis data of the joystick.
+* **Reverse X**: Inverts the X-axis data of the joystick.
 
-* **Invert Y**: Inverts the Y-axis data of the joystick.
+* **Reverse Y**: Inverts the Y-axis data of the joystick.
 
 * **Switch X & Y**: Swaps the X-axis and Y-axis data of the joystick.
 
