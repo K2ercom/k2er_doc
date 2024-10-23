@@ -14,7 +14,7 @@ K2er supports the vast majority of gamepads and keyboards/mice on the market, in
 [Phone] ----Cable--- [Docking Station] ---Cable---- [Gamepad, Keyboard/Mouse]
 ```
 
-> Note: Some gamepads default to `simulating mouse events`. In this case, you need to switch the gamepad's connection mode to `Native Android Mode`, `PC Mode (Xbox)`, `PS Mode`, or `NS Mode (Switch)`.
+> Note: Some gamepads default to `simulating mouse events`. In this case, you need to switch the gamepad's connection mode to `Native Android HID Mode`, `PC Mode (Xbox)`, `PS Mode`, or `NS Mode (Switch)`.
 > K2er supports multiple device mappings simultaneously: such as gamepad + mouse, keyboard + mouse + gamepad, or gamepad + gamepad.
 
 ## Cannot Find the `Floating Window` in the Game
@@ -25,11 +25,17 @@ K2er supports the vast majority of gamepads and keyboards/mice on the market, in
 
 > Add a non-game app to K2er to see if the floating window appears.
 
-## TV Mode Resolution Change Not Effective
+## Unable to read the Shortcut (Record Key)
 
-**v0.2.141** introduced TV mode, which allows changing the resolution on phones/tablets. However, for OPPO/Realme/OnePlus devices, the "Disable Permission Monitoring" switch needs to be enabled for the changes to take effect.
+When trying to read a shortcut, pressing keyboard, mouse, or gamepad buttons has no effect. Please:
 
-> Developer Options -> turn on [Disable Permission Monitoring]
+1. Ensure your keyboard, mouse, or gamepad can input on the phone's home screen or in a web browser.
+
+2. In the device management section of the K2er main interface, check your input device.
+
+3. If the gamepad has multiple modes, switch to one of these modes: `Android HID` / `XBOX PC` / `PS` / `NS`.
+
+4. Restart your phone and try again.
 
 ## Key Presses Are Not Working, Including Mouse
 
@@ -64,9 +70,15 @@ In the detailed settings for the right stick, increase the `Dead Zone`.
 K2er supports two types of combination keys.
 
 * Mod+Key: Hold down the Mod key, then press the Key, for example, `Ctrl+1`, `L1+A`.
-   - Keyboard Mod keys: Ctrl, Shift, Alt, Win, ↑←↓→
-   - Gamepad Mod keys: L1, L2, L3, R1, R2, R3, Select, Start, Mode
+   - Keyboard Mod keys: `Ctrl`, `Shift`, `Alt`, `Win`, `↑`, `←`, `↓`, `→`
+   - Gamepad Mod keys: `L1`, `L2`, `L3`, `R1`, `R2`, `R3`, `Select`, `Start`, `Mode`
    
 * Key1&Key2: Press any two keys simultaneously, for example, `A&B`, `L1&L2`.
 
 ## [How to Use `Macro`](/mappings/macro.md)
+
+## TV Mode Resolution Change Not Effective
+
+**v0.2.141** introduced TV mode, which allows changing the resolution on phones/tablets. However, for OPPO/Realme/OnePlus devices, the "Disable Permission Monitoring" switch needs to be enabled for the changes to take effect.
+
+> Developer Options -> turn on `[Disable Permission Monitoring]`
