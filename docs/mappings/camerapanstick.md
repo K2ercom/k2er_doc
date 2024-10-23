@@ -12,9 +12,15 @@ The `Camera stick` uses the gamepad's joystick to simulate character view moveme
 
     * **Default**: The return to the center occurs after an interruption, which may cause a pause.
 
-    * **Continuous**: Returns to the center without interruption, but not all games support this mode.
+    * **Nonstop**: Returns to the center without interruption, but not all games support this mode.
+
+* **Re-center Delay**: When in Default Re-center Mode, the simulated finger returns to the center after crossing the boundary with a delay of n milliseconds.
 
 * **Release Delay**: After the joystick returns to the center, there is a delay of n milliseconds before stopping.
+
+* **Sensitivity X**: Sensitivity for horizontal movements. The higher the value, the faster the horizontal movement.
+
+* **Sensitivity Y**: Sensitivity for vertical movements. The higher the value, the faster the vertical movement.
 
 * **Main Joystick in Dual-joystick**: K2er supports two gamepads controlling the `Camera stick` simultaneously. If both joysticks are in use, the main gamepad will take priority.
 
