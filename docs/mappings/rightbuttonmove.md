@@ -12,6 +12,6 @@ A single click of the `Right Mouse Button` triggers a one-time movement. Holding
 
 * **Time Factor**: The larger the value, the longer the one-time movement triggered by the right click lasts.
 
-* **Stop Movement on Release**: When enabled, after holding down the `Right Mouse Button` for continuous movement, the movement stops immediately when the `Right Mouse Button` is released.
+* **Stop Move On Long Release**: When enabled, after holding down the `Right Mouse Button` for continuous movement, the movement stops immediately when the `Right Mouse Button` is released.
 
-* **Stop Movement Shortcut**: Pressing this `Shortcut` immediately stops the movement.
+* **Stop Move Shortcut**: Pressing this `Shortcut` immediately stops the movement.
