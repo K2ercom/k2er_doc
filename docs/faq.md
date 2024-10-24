@@ -75,10 +75,31 @@ K2er supports two types of combination keys.
    
 * Key1&Key2: Press any two keys simultaneously, for example, `A&B`, `L1&L2`.
 
-## [How to Use `Macro`](/mappings/macro.md)
-
 ## TV Mode Resolution Change Not Effective
 
 **v0.2.141** introduced TV mode, which allows changing the resolution on phones/tablets. However, for OPPO/Realme/OnePlus devices, the "Disable Permission Monitoring" switch needs to be enabled for the changes to take effect.
 
 > Developer Options -> turn on `[Disable Permission Monitoring]`
+
+## Mapper Doc
+
+| Mapper             | Keyboard ⌨️ | Mouse 🖱️ | Gamepad 🎮  |
+|------------------|---------|---------|---------|
+| [Tap](/mappings/tap.md) |     ✅   |     ✅   |   ✅    |
+| [Dpad](/mappings/dpad.md) | ✅       |         | ✅       |
+| [Swipe](/mappings/swipe.md) |  ✅      | ✅      | ✅      |
+| [Macro](/mappings/macro.md) |  ✅      | ✅      | ✅      |
+| [Charge up 4-way swipe](/mappings/fourwayswipe.md)  | ✅      | ✅      | ✅      |
+| [Dpad (Stick)](/mappings/dpadstick.md) |      |      | ✅      |
+| [Camera stick](/mappings/camerapanstick.md) |      |      | ✅      |
+| [FreeLook (Stick)](/mappings/freelookstick.md) |       |      | ✅      |
+| [MOBA Skill (Stick)](/mappings/mobastick.md) | |      |      | ✅      |
+| [Virtual Mouse (Stick)](/mappings/stickmouse.md) |      |      | ✅      |
+| [Aiming Mode](/mappings/aiming.md) |  ✅      | ✅      |       |
+| [FreeLook (Small Eye)](/mappings/freelook.md) |  ✅      | ✅      |       |
+| [Recoil Control](/mappings/recoil.md) |  ✅      | ✅      |       |
+| [Right Button Move](/mappings/rightbuttonmove.md) |       | ✅      |       |
+| [MOBA Skill](/mappings/moba.md)  | ✅      | ✅      |       |
+| [MOBA Skill (Dpad)](/mappings/mobadpad.md)  | ✅      |      |       |
+| [MOBA Cancel](/mappings/mobacancel.md) | ✅      | ✅      | ✅      |
+
