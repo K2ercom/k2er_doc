@@ -93,7 +93,7 @@ K2er supports two types of combination keys.
 | [Dpad (Stick)](/mappings/dpadstick.md) |      |      | ✅      |
 | [Camera stick](/mappings/camerapanstick.md) |      |      | ✅      |
 | [FreeLook (Stick)](/mappings/freelookstick.md) |       |      | ✅      |
-| [MOBA Skill (Stick)](/mappings/mobastick.md) | |      |      | ✅      |
+| [MOBA Skill (Stick)](/mappings/mobastick.md) |      |      | ✅      |
 | [Virtual Mouse (Stick)](/mappings/stickmouse.md) |      |      | ✅      |
 | [Aiming Mode](/mappings/aiming.md) |  ✅      | ✅      |       |
 | [FreeLook (Small Eye)](/mappings/freelook.md) |  ✅      | ✅      |       |
