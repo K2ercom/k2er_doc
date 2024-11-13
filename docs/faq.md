@@ -6,16 +6,19 @@
 
 K2er supports the vast majority of gamepads and keyboards/mice on the market, including Android handheld devices with built-in gamepad.
 
-* Bluetooth connection: If your gamepad or keyboard/mouse supports Bluetooth, go to your phone's Bluetooth settings and pair these devices directly via Bluetooth.
+* **Bluetooth connection**: If your gamepad or keyboard/mouse supports Bluetooth, go to your phone's Bluetooth settings and pair these devices directly via Bluetooth.
 
-* Docking station connection: If your gamepad or keyboard/mouse is wired or only has a USB adapter, use a docking station to connect. Ensure the docking station is powered, or it won’t be able to drive multiple devices.
+* **Docking station connection**: If your gamepad or keyboard/mouse is wired or only has a USB adapter, use a docking station to connect. Ensure the docking station is powered, or it won’t be able to drive multiple devices.
 
 ```bash
 [Phone] ----Cable--- [Docking Station] ---Cable---- [Gamepad, Keyboard/Mouse]
 ```
 
-> Note: Some gamepads default to `simulating mouse events`. In this case, you need to switch the gamepad's connection mode to `Native Android HID Mode`, `PC Mode (Xbox)`, `PS Mode`, or `NS Mode (Switch)`.
-> K2er supports multiple device mappings simultaneously: such as gamepad + mouse, keyboard + mouse + gamepad, or gamepad + gamepad.
+> **Note 1**: Some gamepads default to `simulating mouse events`. In this case, you need to switch the gamepad's connection mode to `Native Android HID Mode`, `PC Mode (Xbox)`, `PS Mode`, or `NS Mode (Switch)`.
+
+> **Note 2**: Some devices may not be recognized due to `insufficient power supply`. Please use a docking station with power supply function.
+
+> **Note 3**: K2er supports `multiple device mappings simultaneously`: such as gamepad + mouse, keyboard + mouse + gamepad, or gamepad + gamepad.
 
 ## Cannot Find the `Floating Window` in the Game
 
