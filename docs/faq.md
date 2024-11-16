@@ -28,17 +28,23 @@ K2er supports the vast majority of gamepads and keyboards/mice on the market, in
 
 > Add a non-game app to K2er to see if the floating window appears.
 
-## The `floating window` disappears automatically.
+## The `Floating window` disappears automatically.
 
-During gameplay, if the `floating window` disappears, it usually means K2er was terminated by the Android OS.
+During gameplay, if the `Floating window` disappears, it usually means K2er was terminated by the Android OS.
 
 1. Grant K2er notification permission.
 
 2. Lock K2er in the current task list to reduce the chance of being killed.
 
-3. Remove the game from the `Game Mode` (sometimes called `Game Space`) game list on your phone.
+3. Battery optimization whitelist: Set K2er to `No restrictions`.
 
-4. Some phones have a `Game Acceleration` feature during gameplay, such as RedMagic's Turbo Mode. Please disable it.
+4. Background running permission: Allow K2er to run continuously in the background.
+
+5. Auto start permission
+
+6. Remove the game from the `Game Mode` (sometimes called `Game Space`) game list on your phone.
+
+7. Some phones have a `Game Acceleration` feature during gameplay, such as RedMagic's Turbo Mode. Please disable it.
 
 > In `Game Mode` or `Game Acceleration`, K2er, as a background application, is prioritized for termination by the system.
 
