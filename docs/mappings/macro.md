@@ -58,7 +58,7 @@ Effect: After pressing the C macro shortcut, the left mouse button is automatica
 >       2. [Delay Command] 500ms
 >       3. [Shortcut Command] Left Mouse Button ↑
 
-* Switch weapons in a shooting game
+### Switch weapons in a shooting game
 
 Effect: Pressing the macro shortcut (Mouse Wheel ↓) automatically switches between two weapons. Each time the wheel is scrolled down, it switches to the next weapon.
 
