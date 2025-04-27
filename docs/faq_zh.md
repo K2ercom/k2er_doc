@@ -2,6 +2,8 @@
 
 ## [激活相关FAQ](/activation_zh.md)
 
+## [排查问题流程](https://docs.qq.com/mind/DVmFock1IT1djZ09p)
+
 ## 怎么链接手柄、键鼠
 
 K2er支持市面上绝对多数手柄、键鼠。包括支持自带手柄的安卓掌机。

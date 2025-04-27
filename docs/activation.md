@@ -1,5 +1,7 @@
 # Activation-Related FAQs
 
+## [Debugging Process](https://docs.qq.com/mind/DVmxYcEpGQWhiRHFL) 
+
 ## Why is `Wi-Fi` necessary?
 
 `Wi-Fi` is required because enabling `Wireless Debugging` needs a local network environment. The activation process does not consume data but does require a `Wi-Fi (local network)` environment. After activation, `Wi-Fi` is no longer necessary, and you can disable `Wireless Debugging`, but you must keep `USB Debugging` enabled, or the activation will automatically become invalid.

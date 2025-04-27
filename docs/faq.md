@@ -1,5 +1,7 @@
 # Frequently Asked Questions
 
+## [Debugging Process](https://docs.qq.com/mind/DVmxYcEpGQWhiRHFL) 
+
 ## [Activation-related FAQ](/activation.md)
 
 ## How to Connect Gamepad and Keyboards/Mice

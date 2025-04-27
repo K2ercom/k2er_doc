@@ -1,3 +1,6 @@
+# Debugging Process （排查问题流程）
+[English](https://docs.qq.com/mind/DVmxYcEpGQWhiRHFL) | [中文](https://docs.qq.com/mind/DVmFock1IT1djZ09p) 
+
 # Activation FAQ（激活相关常见问题）
 
 [English](/activation.md) | [中文](/activation_zh.md) 
@@ -11,6 +14,8 @@
 [English](https://www.youtube.com/playlist?list=PL3e7SPse54NLMBqkhUocc1ftUT5RbaMa8) | [中文](https://space.bilibili.com/359835528/channel/collectiondetail?sid=3205627&ctype=0) 
 
 ## Mapper Doc（映射文档）
+
+[English](https://docs.qq.com/mind/DVk5tZ1NHeXRtRk5v) | [中文](https://docs.qq.com/mind/DVmFock1IT1djZ09p) 
 
 | English             | 中文            | Keyboard ⌨️ | Mouse 🖱️ | Gamepad 🎮  |
 |------------------|-----------------|---------|---------|---------|
