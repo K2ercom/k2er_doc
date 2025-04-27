@@ -68,13 +68,11 @@ When trying to read a shortcut, pressing keyboard, mouse, or gamepad buttons has
 
 > Note: Enable `USB Debugging (Security Settings)`. This option must be enabled to simulate finger touches. If it's still not working, restart your phone.
 
-2. For the K2er desktop version: ensure the computer's input method is set to English.
+2. In the K2er phone settings, try `Restart Activation Service`.
 
-3. In the K2er phone settings, try `Restart Activation Service`.
+3. Restart your phone and try again.
 
-4. Restart your phone and try again.
-
-5. If none of the above works, it might be due to your phone’s `Game Mode`. Remove the game from `Game Mode` and try again.
+4. If none of the above works, it might be due to your phone’s `Game Mode`. Remove the game from `Game Mode` and try again.
 
 ## How to Use the PS5 Controller's Touchpad
 
@@ -107,6 +105,8 @@ K2er supports two types of combination keys.
 > Developer Options -> turn on `[Disable Permission Monitoring]`
 
 ## Mapper Doc
+
+[Read me](https://docs.qq.com/mind/DVk5tZ1NHeXRtRk5v)
 
 | Mapper             | Keyboard ⌨️ | Mouse 🖱️ | Gamepad 🎮  |
 |------------------|---------|---------|---------|
